@@ -58,15 +58,14 @@ Here are a few things I've picked up along my learning journey.
         css: ["Tailwindcss","Bootstrap"],
       },
       testing:{
-        backend: {
-          nodejs: [ 
-            "Mocha", "Chai",
-            "Jest",  "Supertest"
-          ]
-        },
-        frontend: {
-          vuejs: ["Jest", "Puppeteer"]
-        }
+        
+        nodejs: [ 
+          "Mocha", "Chai",
+          "Jest",  "Supertest"
+        ],
+        
+        vuejs: ["Jest", "Puppeteer"]
+        
       }
     },
 
