@@ -29,7 +29,7 @@ Here are a few things I've picked up along my learning journey.
 <td>
 
 ````js
-  const iktisad = {
+  const tech_stack = {
     programming_languages: [
       "Java",   "JavaScript",
       "NodeJS", "TypeScript"
@@ -53,21 +53,34 @@ Here are a few things I've picked up along my learning journey.
         c_sharp:  "Dotnet",       php: "Laravel",
         java:     "Spring Boot"
       },
+
       frontend: {
         js: "VueJS",
         css: ["Tailwindcss","Bootstrap"],
       },
+
       testing:{
-        
         nodejs: [ 
           "Mocha", "Chai",
           "Jest",  "Supertest"
         ],
-        
         vuejs: ["Jest", "Puppeteer"]
-        
       }
     },
+
+    fun_fact: "There are two ways to write error-free programs; only the third one works"
+
+  }
+````
+
+</td>
+<td>
+
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
+```js 
+
+const development_skills ={
 
     development_style: ["TDD", "BDD"],
     
@@ -90,18 +103,9 @@ Here are a few things I've picked up along my learning journey.
     dev_ops: ["Docker","Jenkins"],
     
     ethusiast: ["Machine Learning","Deep Learning","Mathematics"],
+} 
 
-    fun_fact: "There are two ways to write error-free programs; only the third one works"
-
-  }
-````
-
-</td>
-<td>
-
-![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
-
+```
 
 </td>
 </tr>
