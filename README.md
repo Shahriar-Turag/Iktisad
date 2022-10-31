@@ -19,7 +19,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
 
 
-## ⚡ Tech Stacks
+## ⚡ Tech Stacks & Development Skills
 
 Here are a few things I've picked up along my learning journey.
 
@@ -36,81 +36,76 @@ Here are a few things I've picked up along my learning journey.
       "HTML & CSS"
     ],
     database: {
-        SQL: ["Sqlite","MySQL","MariaDB", "PostgreSQL"],
-        NoSQL: ["MongoDB", "Elastic Search", "Meili Search", "Redis"]
+        sql: [
+          "Sqlite",
+          "MySQL",
+          "MariaDB",
+          "PostgreSQL"
+        ],
+
+        no_sql: [
+          "MongoDB", 
+          "Elastic Search", 
+          "Meili Search", 
+          "Redis"
+        ]
     },
-    os:[
-      "Windows",
-      "MacOS",
-      "Linux (Ubuntu)"
-    ],
-    version_control: [
-      "Git"
-      "GitHub"
-      "BitBucket"
-    ],
-    tools:[
-      "Visual Studio",
-      "VsCode",
-      "Eclipse",
-      "JupyterNotebook"
-      "Figma"
-    ]
+    os_experience:["Windows", "MacOS", "Linux (Ubuntu)"],
+    
+    version_control: ["Git", "GitHub", "BitBucket"],
+    uiux_tools: ["Figma"],
     frameworks:{
 
-      backend: [
-        "ExpressJS",
-        "NestJS"
-        "Dotnet"
-        "Laravel",
-        "Spring Boot"
-      ]
-      frontend: [
-        "VueJS",
-        "Tailwindcss",
-        "Bootstrap"
-      ],
+      backend: {
+        nodejs:   "Express JS",
+        ts:       "Nest JS",
+        c_sharp:  "Dotnet",
+        php:      "Laravel",
+        java:     "Spring Boot"
+      },
+      frontend: {
+        js: "VueJS",
+        css: ["Tailwindcss","Bootstrap"],
+      },
       testing:{
-        backend: [
-          "Mocha",
-          "Chai",
-          "Jest",
-          "Supertest"
-        ],
-        frontend: [
-          "Jest",
-          "Puppeteer"
-        ]
+        backend: {
+          nodejs: [ 
+            "Mocha", "Chai",
+            "Jest",  "Supertest"
+          ]
+        },
+        frontend: {
+          vuejs: ["Jest", "Puppeteer"]
+        }
       }
     },
+
+    development_style: ["TDD", "BDD"],
+    
     software_architecture:[
-      "RESTful",
+      "RESTful", 
       "n-tier",
-      "Modular",
+      "Modular", 
       "SOA - Service Oriented Architecture",
       "MVC - Model:View:Conctroller"
     ],
+
     design_patterns: [
       "Repository pattern",
       "Adapter Pattern",
       "DI Pattern",
       "Builder Pattern"
     ],
+
     cloud_services: [
-      "Digital Ocean",
-      "Azure",
-      "AWS"
-    ],
-    DevOps:[
-      "Docker",
-      "Jenkins"
-    ],
-  ethusiast:[
-    "Machine Learning",
-    "Deep Learning",
-    "Mathematics"
-  ]
+        "Digital Ocean",
+        "Microsoft Azure",
+        "Amazon Web Service", 
+        "Google Cloud Platform"
+      ],
+    dev_ops: ["Docker","Jenkins"],
+    ethusiast: ["Machine Learning","Deep Learning","Mathematics"],
+    fun_fact: "There are two ways to write error-free programs; only the third one works"
 
   }
 ````
-## Familiarity skills 
