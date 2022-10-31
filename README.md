@@ -28,6 +28,75 @@
 ## ⚡ Tech Stacks
 
 Here are a few things I've picked up along my learning journey.
+
+````js
+  const iktisad = {
+    programming_languages: [
+      "Java",
+      "JavaScript",
+      "NodeJS",
+      "TypeScript"
+      "Python",
+      "C#",
+      "PHP",
+      "HTML & CSS"
+    ],
+    database: {
+        SQL: ["Sqlite","MySQL","MariaDB", "PostgreSQL"],
+        NoSQL: ["MongoDB", "Elastic Search", "Meili Search", "Redis"]
+    }
+    frameworks:{
+
+      backend: [
+        "ExpressJS",
+        "NestJS"
+        "Dotnet"
+        "Laravel",
+        "Spring Boot"
+      ]
+      frontend: [
+        "VueJS",
+        "Tailwindcss",
+        "Bootstrap"
+      ],
+      testing:{
+        backend: [
+          "Mocha",
+          "Chai",
+          "Jest",
+          "Supertest"
+        ],
+        frontend: [
+          "Jest",
+          "Pupper"
+        ]
+      }
+    },
+    software_architecture:[
+      "RESTful",
+      "n-tier",
+      "Modular",
+      "SOA - Service Oriented Architecture",
+      "MVC - Model:View:Conctroller"
+    ],
+    design_patterns: [
+      "Repository pattern",
+      "Adapter Pattern",
+      "DI Pattern",
+      "Builder Pattern"
+    ],
+    cloud_services: [
+      "Digital Ocean",
+      "Azure",
+      "AWS"
+    ],
+    DevOps:[
+      "Docker",
+      "Jenkins"
+    ]
+
+  }
+````
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
   
   ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
