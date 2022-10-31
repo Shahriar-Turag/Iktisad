@@ -23,33 +23,25 @@
 
 Here are a few things I've picked up along my learning journey.
 
+<table>
+
+<tr>
+<td>
+
 ````js
   const iktisad = {
     programming_languages: [
-      "Java",
-      "JavaScript",
-      "NodeJS",
-      "TypeScript"
-      "Python",
-      "C#",
-      "PHP",
-      "HTML & CSS"
+      "Java",   "JavaScript",
+      "NodeJS", "TypeScript"
+      "Python", "C#",
+      "PHP",    "HTML & CSS"
     ],
-    database: {
-        sql: [
-          "Sqlite",
-          "MySQL",
-          "MariaDB",
-          "PostgreSQL"
-        ],
-
-        no_sql: [
-          "MongoDB", 
-          "Elastic Search", 
-          "Meili Search", 
-          "Redis"
-        ]
-    },
+    database: [
+      "Sqlite",  "MySQL",
+      "MariaDB", "PostgreSQL"
+      "MongoDB", "Elastic Search", 
+      "Redis",   "Meili Search"
+    ],
     os_experience:["Windows", "MacOS", "Linux (Ubuntu)"],
     
     version_control: ["Git", "GitHub", "BitBucket"],
@@ -57,10 +49,8 @@ Here are a few things I've picked up along my learning journey.
     frameworks:{
 
       backend: {
-        nodejs:   "Express JS",
-        ts:       "Nest JS",
-        c_sharp:  "Dotnet",
-        php:      "Laravel",
+        nodejs:   "Express JS",   ts:  "Nest JS",
+        c_sharp:  "Dotnet",       php: "Laravel",
         java:     "Spring Boot"
       },
       frontend: {
@@ -83,29 +73,39 @@ Here are a few things I've picked up along my learning journey.
     development_style: ["TDD", "BDD"],
     
     software_architecture:[
-      "RESTful", 
-      "n-tier",
-      "Modular", 
-      "SOA - Service Oriented Architecture",
+      "RESTful",  "n-tier",
+      "Modular",  "SOA - Service Oriented Architecture",
       "MVC - Model:View:Conctroller"
     ],
 
     design_patterns: [
-      "Repository pattern",
-      "Adapter Pattern",
-      "DI Pattern",
-      "Builder Pattern"
+      "Repository pattern", "Adapter Pattern",
+      "DI Pattern",          "Builder Pattern"
     ],
 
     cloud_services: [
-        "Digital Ocean",
-        "Microsoft Azure",
-        "Amazon Web Service", 
-        "Google Cloud Platform"
+        "Digital Ocean",      "Microsoft Azure",
+        "Amazon Web Service", "Google Cloud Platform"
       ],
+    
     dev_ops: ["Docker","Jenkins"],
+    
     ethusiast: ["Machine Learning","Deep Learning","Mathematics"],
+
     fun_fact: "There are two ways to write error-free programs; only the third one works"
 
   }
 ````
+
+</td>
+<td>
+
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
+
+
+
+</td>
+</tr>
+</table>
+
+
