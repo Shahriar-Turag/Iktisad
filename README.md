@@ -4,7 +4,7 @@
 
 <dl>
 
-##  <dt>👨🏻‍💻 &nbsp;**About Me**</dt>
+##  <dt> 👨🏻‍💻 &nbsp;**About Me**</dt>
 
 
 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
