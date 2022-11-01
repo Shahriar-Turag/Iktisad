@@ -84,6 +84,7 @@ Here are a few things I've picked up along my learning journey.
     os_experience:["Windows", "MacOS", "Linux"],
     
     version_control: ["Git", "GitHub", "BitBucket"],
+    
     uiux_tools: ["Figma"],
     
     frameworks:{
