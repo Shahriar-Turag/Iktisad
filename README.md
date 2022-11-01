@@ -23,8 +23,16 @@
 
 <div style='display:flex;'>
 
-![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) 
+<div width='300'>
+
+![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+
+</div>
+
+<div width='300'> 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false)
+</div> 
 
 </div>
 
