@@ -1,15 +1,8 @@
-
-<div style= "display: flex; justify-content: space-between;">
-
-<h1> 👋 Hello World! I am Iktisad. </h1>
-
-<div>
-
 [![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-</div>
+# 👋 Hello World! I am Iktisad.
 
-</div>
+
 ##  👨🏻‍💻 &nbsp;About Me
 
 
