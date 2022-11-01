@@ -68,7 +68,7 @@ Here are a few things I've picked up along my learning journey.
       }
     },
 
-    fun_fact: "There are two ways to write error-free programs; only the third one works"
+    fun_fact: "There are two ways to write \nerror-free programs; only the third one works"
 
   }
 ````
