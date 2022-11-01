@@ -24,7 +24,7 @@
 
 <dd>
 
-#### Rainier Technologies (Sept 1st 2020 - Oct 30th 2022)
+#### Rainier Technologies (Sept 1st, 2020 - Nov 30th, 2022)
 - I worked as the core member of a healthcare startup as Team Lead. 
 - I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
 - I worked mainly on the EHR of a dental care project.
