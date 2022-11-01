@@ -11,7 +11,7 @@
 
 - - 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
 
-- ### 👥️ &nbsp;Conect with me
+- ### 👥️ &nbsp;Connect with me
 - 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.
 - ✉️ &nbsp; you can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
