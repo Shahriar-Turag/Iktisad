@@ -20,8 +20,15 @@
 
 
 # 📊 GitHub Stats:
+
+<div style='display:flex'>
+
 ![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) 
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false)<br/>
+
+</div>
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
