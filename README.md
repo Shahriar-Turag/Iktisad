@@ -36,13 +36,15 @@ Here are a few things I've picked up along my learning journey.
       "Python", "C#",
       "PHP",    "HTML & CSS"
     ],
+    
     database: [
       "Sqlite",  "MySQL",
       "MariaDB", "PostgreSQL"
       "MongoDB", "Elastic Search", 
       "Redis",   "Meili Search"
     ],
-    os_experience:["Windows", "MacOS", "Linux"],
+
+    os_experience:["Windows", "MacOS", "Linux (Ubuntu)"],
     
     version_control: ["Git", "GitHub", "BitBucket"],
     uiux_tools: ["Figma"],
@@ -67,9 +69,8 @@ Here are a few things I've picked up along my learning journey.
         vuejs: ["Jest", "Puppeteer"]
       }
     },
-
-
   }
+
 ````
 <!--  fun_fact: "There are two ways to write error-free programs; only the third one works" -->
 
