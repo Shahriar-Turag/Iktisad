@@ -23,7 +23,7 @@
 
 <dd>
 
-#### Rainier Technologies startup wing of Tracer electrocom
+#### Rainier Technologies
 - I worked as the core member of a healthcare startup as Team Lead. 
 - I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
 - I worked mainly on the EHR of a dental care project.
