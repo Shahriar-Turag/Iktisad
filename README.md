@@ -9,7 +9,8 @@
 
 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
 👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
-💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
+💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/Express JS \
+🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 
 ### <dt> 🎓&nbsp;**Education**</dt>
 
@@ -23,7 +24,7 @@
 
 <dd>
 
-#### Rainier Technologies
+#### Rainier Technologies (Sept 1st 2020 - Oct 30th 2022)
 - I worked as the core member of a healthcare startup as Team Lead. 
 - I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
 - I worked mainly on the EHR of a dental care project.
@@ -108,8 +109,6 @@ Here are a few things I've picked up along my learning journey.
   }
 
 ````
-<!--  fun_fact: "There are two ways to write error-free programs; only the third one works" -->
-
 </td>
 <td>
 
