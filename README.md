@@ -25,16 +25,11 @@
 
 # 📊 GitHub Stats:
 
-
-<!-- ![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) -->
-
 <div style='display:flex'>
 
-<img src='https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true' width='421' >
+<img src='https://github-readme-stats.vercel.app/api?username=Iktisad&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true' width='421' >
 
-<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false) -->
-
-<img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false' width='421'>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=vue-dark&hide_border=false' width='421'>
 
 </div>
 
@@ -42,11 +37,11 @@
 
 Here are a few things I've picked up along my learning journey.
 
-<table style="border: none;">
+<table>
 
-<tr style="border: none;">
+<tr>
 
-<td style="border: none;">
+<td>
 
 ````js
   const tech_stack = {
@@ -96,9 +91,8 @@ Here are a few things I've picked up along my learning journey.
 <!--  fun_fact: "There are two ways to write error-free programs; only the third one works" -->
 
 </td>
-<td style="border: none;">
-<!-- 
-![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
+<td>
+
 <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 
 ```js 
@@ -138,6 +132,3 @@ const development_skills ={
 </td>
 </tr>
 </table>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
