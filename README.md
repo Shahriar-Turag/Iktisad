@@ -119,7 +119,7 @@ Here are a few things I've picked up along my learning journey.
 
 ```js 
 
-const development_skills ={
+const development_skills = {
 
     development_style: ["TDD", "BDD"],
     
