@@ -18,34 +18,13 @@
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
 
-
-<style>
-  td , th , tr{
-    border: 0px;
-  }
-</style>
-
 # 📊 GitHub Stats:
 
-<table>
-
-<tr>
-
-<td>
 
 ![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
 
-</td>
-
-<td>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false)
-
-</td> 
-
-</tr>
-
-</table>
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
