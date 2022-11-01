@@ -21,11 +21,17 @@
 # 📊 GitHub Stats:
 
 
-![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) -->
 
+<div style='display:flex'>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false)
+<img src='https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true' width='300' >
 
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false) -->
+
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false' width='300'>
+
+</div>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
