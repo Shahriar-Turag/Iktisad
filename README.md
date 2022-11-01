@@ -14,9 +14,9 @@
 ### <dt> 🎓&nbsp;**Education**</dt>
 
 <dd>
-👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh.
+👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
 
-🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
+🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal. (Winter 2023 - Present)
 </dd>
 
 ### <dt> 💼&nbsp;**Experience**</dt>
@@ -35,7 +35,7 @@
 <dd>
 
 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion. \
- ✉️ &nbsp; you can connect with me in the following platforms </br></br>
+ ✉️ &nbsp;You can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
