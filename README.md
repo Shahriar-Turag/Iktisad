@@ -77,7 +77,8 @@ Here are a few things I've picked up along my learning journey.
 <td>
 <!-- 
 ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
-<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
+<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' class='w-30'>
+
 ```js 
 
 const development_skills ={
