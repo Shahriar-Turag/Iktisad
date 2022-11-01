@@ -75,9 +75,9 @@ Here are a few things I've picked up along my learning journey.
 
 </td>
 <td>
-
-![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
-
+<!-- 
+![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
+<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 ```js 
 
 const development_skills ={
