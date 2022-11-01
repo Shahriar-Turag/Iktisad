@@ -19,6 +19,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
 
 
+<style>
+  td , th {
+    border: none!important;
+  }
+</style>
+
 # 📊 GitHub Stats:
 
 <table>
