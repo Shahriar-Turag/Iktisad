@@ -56,6 +56,7 @@ Here are a few things I've picked up along my learning journey.
 <table style="border: none;">
 
 <tr style="border: none;">
+
 <td style="border: none;">
 
 ````js
