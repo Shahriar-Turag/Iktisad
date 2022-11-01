@@ -53,9 +53,9 @@
 
 Here are a few things I've picked up along my learning journey.
 
-<table border="0px">
+<table>
 
-<tr>
+<tr border="0">
 <td>
 
 ````js
