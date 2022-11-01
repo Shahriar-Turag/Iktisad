@@ -21,7 +21,7 @@
 
 <style>
   td , th , tr{
-    border: none!important;
+    border: 0px;
   }
 </style>
 
