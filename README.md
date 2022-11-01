@@ -77,7 +77,7 @@ Here are a few things I've picked up along my learning journey.
 <td>
 <!-- 
 ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
-<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width='100'>
+<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 
 ```js 
 
@@ -87,7 +87,8 @@ const development_skills ={
     
     software_architecture:[
       "RESTful",  "n-tier",
-      "Modular",  "SOA - Service Oriented Architecture",
+      "Modular", 
+      "SOA - Service Oriented Architecture",
       "MVC - Model:View:Conctroller"
     ],
 
@@ -103,7 +104,11 @@ const development_skills ={
     
     dev_ops: ["Docker","Jenkins"],
     
-    ethusiast: ["Machine Learning","Deep Learning","Mathematics"],
+    ethusiast: [
+      "Machine Learning",
+      "Deep Learning",
+      "Mathematics"
+    ],
 } 
 
 ```
