@@ -87,14 +87,9 @@ const development_skills ={
     
     software_architecture:[
       "RESTful",  "n-tier",
-<<<<<<< HEAD
-      "Modular",  "SOA - Service Oriented Architecture",
-      "MVC - Model:View:Controller"
-=======
       "Modular", 
       "SOA - Service Oriented Architecture",
-      "MVC - Model:View:Conctroller"
->>>>>>> 2eabc59931bfe493fdbdb5a544bcdb6292f591e9
+      "MVC - Model:View:Controller"
     ],
 
     design_patterns: [
