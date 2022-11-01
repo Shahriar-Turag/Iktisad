@@ -53,7 +53,7 @@
 
 Here are a few things I've picked up along my learning journey.
 
-<table border="0">
+<table border="0px">
 
 <tr>
 <td>
