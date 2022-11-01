@@ -2,26 +2,43 @@
 # 👋 Hello World! I am Iktisad.
 [![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<dl>
 
 ##  👨🏻‍💻 &nbsp;About Me
 
 
-- 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies.
+💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
+👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
+💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
 
-- 👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture 
-- 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
+### <dt> 🎓&nbsp;Education </dt>
 
-- ### 🎓&nbsp; Education
-- - 👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh.
+<dd>
+👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh.
+</dd>
 
-- - 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
+<dd>
+ 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
+</dd>
 
-- ### 👥️ &nbsp;Connect with me
-- 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion.
-- ✉️ &nbsp; you can connect with me in the following platforms </br></br>
+### <dt> 💼&nbsp;Experience</dt>
+
+<dd>
+
+#### Rainier Technologies
+- I worked as the core member of a healthcare startup as Team Lead. 
+- I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
+- I worked mainly on the EHR of a dental care project.
+- As per my role as a Software Engineer I was responsible for Database Design, implementing Code Design Patterns, designing a cloud based System Architecture and refactoring the monolithic dental application to a scalable SAAS base platform.
+</dd>
+
+### 👥️ &nbsp;Connect with me
+💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion. \
+ ✉️ &nbsp; you can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
+</dl>
 
 # 📊 GitHub Stats:
 
