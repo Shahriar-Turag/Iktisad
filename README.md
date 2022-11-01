@@ -65,7 +65,6 @@ Here are a few things I've picked up along my learning journey.
 <td> -->
 <div style="display:flex;">
 
-<div width="400">
 
 ````js
   const tech_stack = {
@@ -114,10 +113,8 @@ Here are a few things I've picked up along my learning journey.
 ````
 <!-- </td>
 <td> -->
-</div>
 
-<div width="400">
-
+<div>
 <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width="400">
 
 ```js 
@@ -154,7 +151,7 @@ const development_skills ={
 
 ```
 
-<div>
+</div>
 
 </div>
 <!-- </td>
