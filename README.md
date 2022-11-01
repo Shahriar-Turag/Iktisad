@@ -4,14 +4,14 @@
 
 <dl>
 
-##  👨🏻‍💻 &nbsp;About Me
+##  <dt>👨🏻‍💻 &nbsp;**About Me**</dt>
 
 
 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
 👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
 
-### <dt> 🎓&nbsp;Education </dt>
+### <dt> 🎓&nbsp;**Education**</dt>
 
 <dd>
 👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh.
@@ -19,18 +19,18 @@
 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
 </dd>
 
-### <dt> 💼&nbsp;Experience</dt>
+### <dt> 💼&nbsp;**Experience**</dt>
 
 <dd>
 
-#### Rainier Technologies
+#### Rainier Technologies startup wing of Tracer electrocom
 - I worked as the core member of a healthcare startup as Team Lead. 
 - I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
 - I worked mainly on the EHR of a dental care project.
 - As per my role as a Software Engineer I was responsible for Database Design, implementing Code Design Patterns, designing a cloud based System Architecture and refactoring the monolithic dental application to a scalable SAAS base platform.
 </dd>
 
-### 👥️ &nbsp;Connect with me
+### <dt>👥️ &nbsp;**Connect with me**</dt>
 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion. \
  ✉️ &nbsp; you can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
