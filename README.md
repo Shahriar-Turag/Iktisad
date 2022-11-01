@@ -14,11 +14,9 @@
 ### <dt> 🎓&nbsp;Education </dt>
 
 <dd>
-👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh.
-</dd>
+👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University Dhaka, Bangladesh. \
 
-<dd>
- 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
+🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal.
 </dd>
 
 ### <dt> 💼&nbsp;Experience</dt>
