@@ -58,12 +58,11 @@
 
 Here are a few things I've picked up along my learning journey.
 
-<!-- <table>
+<table>
 
 <tr>
 
-<td> -->
-<div style="display:flex;">
+<td width="400">
 
 
 ````js
@@ -111,11 +110,11 @@ Here are a few things I've picked up along my learning journey.
   }
 
 ````
-<!-- </td>
-<td> -->
+</td>
 
-<div>
-<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' width="400">
+<td width=400>
+
+<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 
 ```js 
 
@@ -151,9 +150,6 @@ const development_skills ={
 
 ```
 
-</div>
-
-</div>
-<!-- </td>
+</td>
 </tr>
-</table> -->
+</table>
