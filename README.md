@@ -44,7 +44,7 @@
 <dd>
 </dl>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 
 <div style='display:flex'>
 
