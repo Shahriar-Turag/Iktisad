@@ -7,10 +7,9 @@
 ##  <dt> 👨🏻‍💻 &nbsp;**About Me**</dt>
 
 
-### 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
-
-### 👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
-### 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
+💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
+👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
+💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
 
 ### <dt> 🎓&nbsp;**Education**</dt>
 
