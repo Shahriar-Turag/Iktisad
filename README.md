@@ -67,7 +67,7 @@ Here are a few things I've picked up along my learning journey.
 
 ````js
   const tech_stack = {
-    
+
     programming_languages: [
       "Java",   "JavaScript",
       "NodeJS", "TypeScript"
@@ -110,7 +110,6 @@ Here are a few things I've picked up along my learning journey.
       }
     },
   }
-
 ````
 </td>
 
