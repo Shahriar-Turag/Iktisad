@@ -65,7 +65,7 @@ Here are a few things I've picked up along my learning journey.
 <td> -->
 <div style="display:flex;">
 
-<div>
+<div width="400">
 
 ````js
   const tech_stack = {
@@ -116,7 +116,7 @@ Here are a few things I've picked up along my learning journey.
 <td> -->
 </div>
 
-<div>
+<div width="400">
 
 <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 
