@@ -62,7 +62,7 @@ Here are a few things I've picked up along my learning journey.
 
 <tr>
 
-<td border="0" width="400">
+<td border="2" width="400">
 
 
 ````js
@@ -113,7 +113,7 @@ Here are a few things I've picked up along my learning journey.
 ````
 </td>
 
-<td border="0" width=400>
+<td border="2" width=400>
 
 <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
 
