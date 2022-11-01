@@ -1,5 +1,12 @@
+
+
 # 👋 Hello World! I am Iktisad.
+
+[![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 ##  👨🏻‍💻 &nbsp;About Me
+
 
 - 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies.
 
@@ -32,13 +39,6 @@
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false' width='421'>
 
 </div>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
 
 ## ⚡ Tech Stacks & Development Skills
 
