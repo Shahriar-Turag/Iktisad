@@ -24,7 +24,6 @@
 <div style='display:flex;'>
 
 ![](https://github-readme-stats.vercel.app/api?username=Iktisad&theme=dracula&hide_border=false&include_all_commits=true&count_private=true) 
-
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Iktisad&theme=dracula&hide_border=false)
 
 </div>
