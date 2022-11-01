@@ -7,9 +7,10 @@
 ##  <dt> 👨🏻‍💻 &nbsp;**About Me**</dt>
 
 
-💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
-👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
-💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
+### 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
+
+### 👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
+### 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/ Express JS
 
 ### <dt> 🎓&nbsp;**Education**</dt>
 
@@ -31,11 +32,16 @@
 </dd>
 
 ### <dt>👥️ &nbsp;**Connect with me**</dt>
+
+<dd>
+
 💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion. \
  ✉️ &nbsp; you can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
+
+<dd>
 </dl>
 
 # 📊 GitHub Stats:
