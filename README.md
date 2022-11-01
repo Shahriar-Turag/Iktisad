@@ -36,7 +36,7 @@ Here are a few things I've picked up along my learning journey.
       "Python", "C#",
       "PHP",    "HTML & CSS"
     ],
-    
+
     database: [
       "Sqlite",  "MySQL",
       "MariaDB", "PostgreSQL"
@@ -48,6 +48,7 @@ Here are a few things I've picked up along my learning journey.
     
     version_control: ["Git", "GitHub", "BitBucket"],
     uiux_tools: ["Figma"],
+    
     frameworks:{
 
       backend: {
