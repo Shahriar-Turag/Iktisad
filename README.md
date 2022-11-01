@@ -55,8 +55,8 @@ Here are a few things I've picked up along my learning journey.
 
 <table style="border: none;">
 
-<tr>
-<td>
+<tr style="border: none;">
+<td style="border: none;">
 
 ````js
   const tech_stack = {
@@ -106,7 +106,7 @@ Here are a few things I've picked up along my learning journey.
 <!--  fun_fact: "There are two ways to write error-free programs; only the third one works" -->
 
 </td>
-<td>
+<td style="border: none;">
 <!-- 
 ![Alt Text](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif) -->
 <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif'>
