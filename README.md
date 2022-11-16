@@ -17,7 +17,7 @@
 <dd>
 👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University in Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
 
-🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montrea (Winter 2023 - Present)
+🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal (Winter 2023 - Present)
 </dd>
 
 ### <dt> 💼&nbsp;**Experience**</dt>
