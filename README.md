@@ -15,7 +15,7 @@
 ### <dt> 🎓&nbsp;**Education**</dt>
 
 <dd>
-👨🏽‍🎓 &nbsp;I did my Bachelor's in Science in Computer Science at BRAC University in Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
+👨🏽‍🎓 &nbsp;I completed Bachelor's in Science in Computer Science at BRAC University in Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
 
 🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal. (Winter 2023 - Present)
 </dd>
@@ -25,9 +25,9 @@
 <dd>
 
 #### Rainier Technologies (Sept 1st, 2020 - Nov 30th, 2022)
-- I worked as the core member of a healthcare startup as Team Lead. 
-- I managed and organised the team, delegated tasks, met deadlines and ensured clear communication with the stakeholders. 
-- I worked mainly on the EHR of a dental care project.
+- I worked as the core member of a healthcare startup as the Team Lead. 
+- I managed and organised the team, delegated tasks to the team, met deadlines and ensured clear communication between the stakeholders and the developers. 
+- My main responsibility was to work on the EHR of a dental care project.
 - As per my role as a Software Engineer I was responsible for Database Design, implementing Code Design Patterns, designing a cloud based System Architecture and refactoring the monolithic dental application to a scalable SAAS base platform.
 </dd>
 
