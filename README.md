@@ -16,9 +16,9 @@
 
 <dd>
 
-🌱 &nbsp;I am currently pursuing Masters in Quality Systems Engineering in Canada at Quebec, Montreal. (Winter 2023 - Present)
+🌱 &nbsp; MEng, Quality Systems Engineering, Concordia University, Montreal, QC, Canada. (Winter 2023 - Present)
 
-👨🏽‍🎓 &nbsp; I completed Bachelor's in Science in Computer Science at BRAC University in Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
+👨🏽‍🎓 &nbsp; BSc, Computer Science, BRAC University, Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
 
 </dd>
 
