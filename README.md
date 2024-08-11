@@ -38,7 +38,7 @@
 
 <dd>
 
-💬 &nbsp;Feel free to reach out to me for pro consulting and volunteering, or just for some interesting discussion. \
+💬 &nbsp;Feel free to reach out to me for pro consulting regarding backend, volunteering project, or just for some interesting discussion. \
  ✉️ &nbsp;You can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
