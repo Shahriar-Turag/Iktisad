@@ -2,9 +2,7 @@
 # 👋 Hello World! I am Iktisad.
 [![](https://visitcount.itsvg.in/api?id=Iktisad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<dl>
-
-##  <dt> 👨🏻‍💻 &nbsp;**About Me**</dt>
+##  👨🏻‍💻 &nbsp;**About Me**
 
 
 💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
@@ -12,13 +10,12 @@
 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/Express JS \
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 
-### <dt>👥️ &nbsp;**Connect with me**</dt>
+### 👥️ &nbsp;**Connect with me over**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
 
-<dd>
-</dl>
+--- 
 
 ## 📊 GitHub Stats:
 
