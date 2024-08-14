@@ -13,9 +13,6 @@
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 
 ### <dt>👥️ &nbsp;**Connect with me**</dt>
-
-💬 &nbsp;Feel free to reach out to me for pro consulting regarding backend, volunteering project, or just for some interesting discussion. \
- ✉️ &nbsp;You can connect with me in the following platforms </br></br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iktisad-rashid)
  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Iktisad) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iktisad.rashid@gmail.com)
