@@ -12,31 +12,7 @@
 💞️ &nbsp;I’m looking to collaborate on Backends built with NODE JS/Express JS \
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 
-### <dt> 🎓&nbsp;**Education**</dt>
-
-<dd>
-
-🌱 &nbsp; MEng, Quality Systems Engineering, Concordia University, Montreal, QC, Canada. (Winter 2023 - Present)
-
-👨🏽‍🎓 &nbsp; BSc, Computer Science, BRAC University, Dhaka, Bangladesh. (Fall 2015 - Spring 2020)
-
-</dd>
-
-### <dt> 💼&nbsp;**Experience**</dt>
-
-<dd>
-
-#### Rainier Technologies (Sept 1st, 2020 - Nov 30th, 2022) / Dhaka, Bangladesh
-- Collaborated worked as the core member of a healthcare startup as the Team Lead. 
-- Orchastrated the team, delegated tasks to the team, met deadlines and ensured clear communication between the stakeholders and the developers. 
-- Responsible to work on the EHR system of a dental care project to meet the conformance.
-- Coordinated with the team to design UML, Database, implemented Code Design Patterns.
-- Managed cloud operations using Digital Ocean platform.
-</dd>
-
 ### <dt>👥️ &nbsp;**Connect with me**</dt>
-
-<dd>
 
 💬 &nbsp;Feel free to reach out to me for pro consulting regarding backend, volunteering project, or just for some interesting discussion. \
  ✉️ &nbsp;You can connect with me in the following platforms </br></br>
