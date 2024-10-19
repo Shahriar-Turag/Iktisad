@@ -104,8 +104,8 @@
 
 | **Languages**        | **Databases**            | **Backend Frameworks** | **Frontend Frameworks** | **Testing**            | **OS Experience** | **CI/CD**           | **Cloud Platforms**   |
 |----------------------|--------------------------|-------------------------|-------------------------|------------------------|-------------------|---------------------|-----------------------|
-| Java                 | PostgreSQL               | Express.js              | Vue.js                  | Jest                   | Windows           | Git                 | DigitalOcean          |
-| C#                   | MongoDB                  | .NET Core               | Tailwind CSS            | Mocha                  | macOS             | GitHub              | AWS                   |
+| Java                 | PostgreSQL               | Express.js              | VueJs                   | Jest                   | Windows           | Git                 | DigitalOcean          |
+| C#                   | MongoDB                  | .NET Core               | Tailwindcss             | Mocha                  | macOS             | GitHub              | AWS                   |
 | JavaScript           | MySQL                    | NestJS                  | Bootstrap               | Puppeteer              | Linux             | GitHub Desktop      | Heroku                |
 | TypeScript           | Elasticsearch            | Spring                  |                         |                        |                   |                     | Google Cloud          |
 | Node.js              | Redis                    | Laravel                 |                         |                        |                   |                     |                       |
@@ -113,3 +113,6 @@
 | PHP                  |                          |                         |                         |                        |                   |                     |                       |
 | HTML/CSS3                 |                          |                         |                         |                        |                   |                     |                       |
 |                 |                          |                         |                         |                        |                   |                     |                       |
+
+
+
