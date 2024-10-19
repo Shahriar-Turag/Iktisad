@@ -5,9 +5,9 @@
 ## 👨🏻‍💻 &nbsp;**About Me** 
 
 
-💡 &nbsp;I am a Software Engineer, problem solver, Deep Learning enthusiast and an avid learner of new technologies. \
-👀 &nbsp;I am interested in Building Scalable Applications, System Design and Cloud Architecture \
-💞️ &nbsp;I’m looking to collaborate on any technologies that foster growth \
+💡 &nbsp;Software Engineer with a passion for solving complex problems and a keen interest in Deep Learning and emerging technologies. \
+👀 &nbsp;I specialize in Building Scalable Applications, System Design, and Cloud Architecture, always seeking innovative solutions. \
+💞️ &nbsp;Open to collaboration on projects that promote growth, learning, and technical excellence across a variety of technologies. \
 🪧 &nbsp;Fun fact <q>There are two ways to write error-free programs; only the third one works </q>
 
 ### 👥️ &nbsp;**Connect with me over**
