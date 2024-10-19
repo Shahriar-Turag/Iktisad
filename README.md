@@ -29,19 +29,10 @@
 
 ## ⚡ Tech Stacks & Development Skills
 
-<div style="display: flex; align-items: center;">
-  <!-- Text Section -->
-  <div style="flex-basis: 70%; padding-right: 20px;">
-    <h4>Here are a few things I've picked up along my learning journey.</h4>
-  </div>
+<h4>Here are a few things I've picked up along my learning journey.</h4>
+<img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="140" width="300" style="max-width: 100%;">
 
-  <!-- Image Section -->
-  <div style="flex-basis: 30%;">
-    <img src='https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif' alt="Giphy" height="140" width="300" style="max-width: 100%;">
-  </div>
-</div>
-
-<table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
+<!-- <table border="1" cellpadding="10" style="border-collapse: collapse; width: 100%;">
   <tr>
     <th>Languages</th>
     <th>Databases</th>
@@ -107,4 +98,18 @@
        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" alt="gcp" height="40"/>
     </td>
   </tr>
-</table>
+</table> -->
+
+## Skills Matrix
+
+| **Languages**        | **Databases**            | **Backend Frameworks** | **Frontend Frameworks** | **Testing**            | **OS Experience** | **CI/CD**           | **Cloud Platforms**   |
+|----------------------|--------------------------|-------------------------|-------------------------|------------------------|-------------------|---------------------|-----------------------|
+| Java                 | PostgreSQL               | Express.js              | Vue.js                  | Jest                   | Windows           | Git                 | DigitalOcean          |
+| C#                   | MongoDB                  | .NET Core               | Tailwind CSS            | Mocha                  | macOS             | GitHub              | AWS                   |
+| JavaScript           | MySQL                    | NestJS                  | Bootstrap               | Puppeteer              | Linux             | GitHub Desktop      | Heroku                |
+| TypeScript           | Elasticsearch            | Spring                  |                         |                        |                   |                     | Google Cloud          |
+| Node.js              | Redis                    | Laravel                 |                         |                        |                   |                     |                       |
+| Python               | SQLite                   |                         |                         |                        |                   |                     |                       |
+| PHP                  |                          |                         |                         |                        |                   |                     |                       |
+| HTML/CSS3                 |                          |                         |                         |                        |                   |                     |                       |
+|                 |                          |                         |                         |                        |                   |                     |                       |
